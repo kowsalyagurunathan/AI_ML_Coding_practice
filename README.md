@@ -1,94 +1,49 @@
-# Linear Algebra using Python (Google Colab)
+📘 Mathematics for Machine Learning using Python
 
-This repository contains my hands-on practice of **Linear Algebra concepts implemented using Python **.
-All programs are executed in Google Colab as part of my structured learning journey.
+This repository contains my hands-on implementation of core mathematical concepts using Python (NumPy).
+The focus is on building a strong foundation in Linear Algebra and Differential Calculus for applications in Machine Learning and AI.
 
----
+🚀 Topics Covered
+🔹 Linear Algebra
+Matrix Operations (Addition, Subtraction, Element-wise, Transpose)
+Vector & Matrix Products (Dot, Inner, Outer)
+Determinant, Inverse, Adjoint
+Matrix Norms (L0, L1, L2, L∞)
+Orthonormal Vectors & Diagonal Matrix
+Pseudo Inverse
+Singular Value Decomposition (SVD)
+🔹 Differential Calculus
+Basics of Functions and Limits
+Derivatives (Power, Product, Quotient, Chain Rule)
+Exponential & Logarithmic Functions
+Polynomial Differentiation
+Basic intuition of derivatives in optimization
+🛠️ Tools & Technologies
+Python
+NumPy
+Google Colab
+📂 Project Files
+Basic_Matrix_coding_Linear_Algebra.ipynb → Linear Algebra implementations
+Basics_of_differential_calculus.ipynb → Differential Calculus implementations
+▶️ How to Run
+Open the notebooks in Google Colab
+Run each cell step by step
+Modify inputs to experiment and understand concepts
+🎯 Purpose of This Project
+Strengthen Python programming skills
+Build a strong math foundation for ML
+Connect mathematical concepts with real coding implementation
+Prepare for advanced topics like ML, DL, and optimization
+🌱 Future Improvements
+Add Probability & Statistics
+Implement optimization techniques (Gradient Descent)
+Apply these concepts in Machine Learning models
+👩‍💻 Author
 
-## 🚀 Topics Covered
-
-### 🔹 Basic Matrix Operations
-
-* Matrix Addition
-* Matrix Subtraction
-* Element-wise Multiplication
-* Transpose of a matrix
-
-### 🔹 Vector & Matrix Products
-
-* Dot product (vectors)
-* Dot product (matrices using `dot` and `@`)
-* Inner product
-* Outer product (vectors & matrices)
-
-### 🔹 Matrix Properties
-
-* Determinant of a matrix
-* Inverse of a matrix
-* Adjoint of a matrix
-
-### 🔹 Norms
-
-* L1 Norm (matrix & vector)
-* L2 Norm (square and non-square matrices)
-* L0 Norm (count of non-zero elements)
-* L∞ (Infinity Norm)
-
-### 🔹 Additional Concepts
-
-* Diagonal elements and diagonal matrix
-* Orthonormal vectors
-* Square root calculations
-
-### 🔹 Advanced Concept
-
-* Pseudo Inverse of a matrix
-* Singular Value Decomposition (SVD) using NumPy
-
----
-
-## 🛠️ Tools & Technologies
-
-* Python
-* NumPy
-* Google Colab
-
----
-
-## 📂 Project File
-
-* `Basic_Matrix_coding_Linear_Algebra.ipynb` → Contains all implementations with outputs
-
----
-
-## ▶️ How to Run
-
-1. Open the notebook in Google Colab
-2. Execute each cell step by step
-3. Modify values to experiment and understand concepts
-
----
-
-
-## 🎯 Purpose of This Project
-
-This project is part of my learning journey to:
-
-* Strengthen Python programming skills
-* Understand core Linear Algebra concepts
-* Build a foundation for advanced topics like AI, ML, and DL.
-
----
-
-
-## 👩‍💻 Author
-
-**Kowsalya**
+Kowsalya
 Aspiring ML Engineer | Python Learner
 
----
+⭐ Note
 
-## ⭐ Note
-
-This repository is created for learning and practice purposes.
-Concepts will be expanded and improved as I progress further.
+This repository is part of my continuous learning journey.
+More topics and improvements will be added over time.
