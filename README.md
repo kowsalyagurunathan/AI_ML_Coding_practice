@@ -38,10 +38,9 @@ Prepare for advanced topics like ML, DL, and optimization
 Add Probability & Statistics
 Implement optimization techniques (Gradient Descent)
 Apply these concepts in Machine Learning models
-👩‍💻 Author
 
+👩‍💻 Author
 Kowsalya
-Aspiring ML Engineer | Python Learner
 
 ⭐ Note
 
